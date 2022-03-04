@@ -1,0 +1,24 @@
+div {
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 5rem;
+}
+
+h1 {
+    color: rgba(6, 146, 99, 0.781);
+    font-weight: 800;
+}
+
+form {
+    padding-top: 1rem;
+}
+
+#getOptions {
+    border: 1px solid #777;
+    background: #4e701d;
+    color: #fff;
+    font: bold 11px 'Trebuchet MS';
+    padding: 4px;
+    cursor: pointer;
+    border-radius: 4px;
+}

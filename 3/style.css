@@ -1,0 +1,14 @@
+.container {
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 5rem;
+}
+
+.inputDiv {
+    padding-top: 1rem;
+}
+
+h1 {
+    color: rgba(6, 146, 99, 0.781);
+    font-weight: 800;
+}
